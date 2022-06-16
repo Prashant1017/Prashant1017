@@ -1,9 +1,5 @@
-### Hello There 👋 Whassaup
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72CD4&center=true&vCenter=true&lines=Hello+There;I+am+a+Computer+Science+Student;BackEnd+Developer;Alwz+trying+to+lern+new+things.)](https://git.io/typing-svg)
 
-<!--
-**Prashant1017/Prashant1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
