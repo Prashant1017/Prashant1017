@@ -5,5 +5,10 @@
 - 🌱 I’m currently learning Django.
 
 
+Let's Joke Around 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q6gljumpjzkww7ep6aucwkvjg&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
