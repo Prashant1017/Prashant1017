@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=238818&center=true&vCenter=true&lines=Hello+There;CSIT+Student;Learner;Nice+to+meet+you!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C8510&lines=Hello+World;Welcome+to+my+profile;CSIT+Student;Trying+to+learn+new+things;Interested+in+collaboration;printf(%22Thanks+for+visiting+my+profile%22))](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working on Django projects.
@@ -6,9 +6,10 @@
 
 
 Let's Joke Around 
+
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q6gljumpjzkww7ep6aucwkvjg&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
