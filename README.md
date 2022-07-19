@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0C8510&lines=Hello+World;Welcome+to+my+profile;CSIT+Student;Trying+to+learn+new+things;Interested+in+collaboration;printf(%22Thanks+for+visiting%22))](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working on Django projects.
-- 🌱 I’m currently learning Django.
 
 
 Let's Joke Around 
