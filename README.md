@@ -114,10 +114,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="Prashant1017's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prashant1017&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
@@ -126,6 +122,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prashant1017&layout=compact&theme=algolia" alt="Prashant1017" /></a> </p>
 
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
 Let's Joke Around 
