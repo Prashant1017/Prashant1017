@@ -50,6 +50,8 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+ &emsp;
+	<img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
 </p>
 
 ### 👉 Frontend Development
@@ -128,6 +130,12 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+
+## 🎶 I am currently listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kohux1jvi7ze8o2lc2mqe49uz&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<br>
 
 
 Let's Joke Around 
