@@ -97,7 +97,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant1017&theme=tokyonight_duo" alt="Prashant1017" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant1017&theme=dark" alt="Prashant1017" /></p>
 
 </details>
   
@@ -107,8 +107,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Prashant1017's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prashant1017&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant1017&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Prashant1017" height="230px"/>
+	    <img alt="Prashant1017's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prashant1017&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant1017&langs_count=10&show_icons=true&locale=en&theme=dark" alt="Prashant1017" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -128,7 +128,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prashant1017&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Prashant1017" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prashant1017&layout=compact&theme=matrix&column=4&margin-w=15&margin-h=15" alt="Prashant1017" /></a> </p>
 
 [![@Prashant1017's Holopin board](https://holopin.io/api/user/board?user=Prashant1017)](https://holopin.io/@Prashant1017)
 	
