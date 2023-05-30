@@ -97,7 +97,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant1017&theme=dark" alt="Prashant1017" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant1017&theme=midnight-purple" alt="Prashant1017" /></p>
 
 </details>
   
@@ -121,7 +121,7 @@
 
 ----
 	
-[![Prashant1017's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prashant1017&theme=github	)](https://github.com/Prashant1017/github-readme-activity-graph)
+[![Prashant1017's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prashant1017&theme=github)](https://github.com/Prashant1017/github-readme-activity-graph)
 
  
 </details>
