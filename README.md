@@ -117,12 +117,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Prashant1017's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Prashant1017&theme=github)](https://github.com/Prashant1017/github-readme-activity-graph)
-
  
 </details>
 
@@ -135,6 +129,7 @@
 [![@Prashant1017's Holopin board](https://holopin.io/api/user/board?user=Prashant1017)](https://holopin.io/@Prashant1017)
 	
 </details>
+
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
