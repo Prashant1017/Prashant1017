@@ -1,4 +1,9 @@
-<h1 align="center">Hi , I'm Prashant Shrestha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+
+<h1 align="center">I'm Prashant Shrestha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSIT+Student;Interested+in+collaboration;Always%20learning%20new%20things;printf(%22Thanks+for+visiting%22);&center=true&width=500&height=50"></a>
 </p>
@@ -140,7 +145,10 @@ Let's Joke Around
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 -----
-Last Edited on: 05/29/2023
+Last Edited on: 06/19/2023
 
 
