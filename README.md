@@ -12,6 +12,8 @@
 	<img src="https://komarev.com/ghpvc/?username=Prashant1017&label=Profile%20views&color=0e75b6&style=plastic" alt="Prashant1017" /> 
 </p>
 
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
+
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 - :school: 4th year CSIT Student at Academia International College
 - :technologist: I love using Software as a solution for every `Problem`
@@ -148,6 +150,6 @@ Let's Joke Around
 </p>
 
 
-<b>Last Edited on: 07/04/2023</b>
+<b>Last Edited on: 07/16/2023</b>
 
 
